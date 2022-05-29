@@ -9,7 +9,7 @@ Servers are relieing on http-server to be installed globally.
 #Usage
 
 ````
-git clone https://github.com/rlthomasgames/xss-prevention-test-local.git
+git clone https://github.com/rlthomasgames/xss-prevention-test.git
 
 git i -g http-server
 ````
